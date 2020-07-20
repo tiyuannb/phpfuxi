@@ -41,6 +41,7 @@
 			break;
 	}
 	//while
+	
 	$i = 0;
 	while($i < $count){
 		echo $i;
